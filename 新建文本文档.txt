@@ -1,0 +1,5 @@
+java streaming
+/usr/local/hadoop/share/hadoop/tools/lib/hadoop-streaming-2.7.2.jar
+
+pscp
+C:\> pscp -i C:\Keys\my-key-pair.ppk C:\Sample_file.txt user_name@public_dns:/usr/local/Sample_file.txt
